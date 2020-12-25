@@ -1,0 +1,63 @@
+#archive{
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: #f8f9fa;
+    border: 1px solid grey;
+}
+#aa{
+    border-bottom:1px solid #dee2e6;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
+}
+#todo{
+    list-style-type: none;
+}
+#todo a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.archivelist li{
+    padding-top: .4em;
+    padding-bottom: .4em;
+}
+.archivelist a{
+    color: grey;
+}
+#afeed{
+    padding-left: 1em;
+}
+.blog-post-meta{
+    margin-bottom: 0em;
+    color: #727272;
+}
+hr{
+    margin-top: 0.5em;
+}
+#CSF{
+    background-color: #212529;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 800;
+    margin-bottom: 0.5em;
+    border-bottom: 2px solid green;
+    box-shadow: 5px 10px;
+}
+#this:hover{
+    cursor: pointer;
+}
+nav{
+    border-bottom: 2px solid green;
+}
+.blog-footer {
+    padding: 2.5rem 0;
+    color: #727272;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+    margin-top: 10px;
+}
+.secondContainer{
+    margin-left: 5em;
+    margin-right: 5em;
+}
