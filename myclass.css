@@ -3,7 +3,7 @@
     padding-right: 1em;
     background-color: #f8f9fa;
     border: 1px solid grey;
-    
+    position: fixed;
     
 }
 #aa{
@@ -27,7 +27,7 @@
     color: grey;
 }
 #afeed{
-    padding-left: 0em;
+    padding: 0em;
 }
 @media (min-width: 1200px)
 {
@@ -67,6 +67,6 @@ nav{
     margin-top: 10px;
 }
 .secondContainer{
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
