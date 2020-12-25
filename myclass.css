@@ -27,7 +27,14 @@
     color: grey;
 }
 #afeed{
-    padding-left: 1em;
+    padding-left: 0em;
+}
+@media (min-width: 1200px)
+{
+    #afeed{
+        padding-left: 0.5em;
+        
+    }
 }
 .blog-post-meta{
     margin-bottom: 0em;
