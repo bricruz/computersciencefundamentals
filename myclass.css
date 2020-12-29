@@ -4,6 +4,10 @@
     background-color: #f8f9fa;
     border: 1px solid grey;
     position: relative;
+    border-radius: 3%;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 100px;
     
 }
 #aa{
