@@ -1,18 +1,12 @@
-body{
-    background-color: gray;
-}
-
 #mini{
     padding-left: 1em;
-    padding-right: 1em;
+    padding-right: 0;
     background-color: #f8f9fa;
     border: 1px solid grey;
-    position: relative;
     border-radius: 3%;
     position: -webkit-sticky; /* Safari */
     position: sticky;
     top: 100px;
-    
 }
 #aa{
     border-bottom:1px solid #dee2e6;
@@ -36,6 +30,8 @@ body{
 }
 #afeed{
     padding: 0em;
+    
+
 }
 @media (min-width: 1200px)
 {
@@ -52,12 +48,16 @@ hr{
     margin-top: 0.5em;
 }
 #CSF{
-    background-color: #212529;
+    /*background-color: #212529;*/
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/859487850041602021/84AE6980846B4C1D5143C5A84F24D261D58E38FE/");
+    
     color: white;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 800;
     margin-bottom: 0.5em;
     border-bottom: 3px solid green;
+    
+    background-color: #212529;
 }
 #this:hover{
     cursor: pointer;
@@ -76,4 +76,11 @@ nav{
 .secondContainer{
     margin-left: 2em;
     margin-right: 2em;
+}
+
+nav{
+    background-color: lightslategrey;
+}
+h1{
+    background-color: #212529;
 }
