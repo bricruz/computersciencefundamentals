@@ -58,7 +58,7 @@ hr{
     font-weight: 800;
     margin-bottom: 0.5em;
     border-bottom: 3px solid green;
-    box-shadow: 5px 10px;
+  
 }
 #this:hover{
     cursor: pointer;
